@@ -99,7 +99,7 @@ echo "image for ".$term.'<br/>';
    
 
 
-
+// if there is any error
 } else {
 
     print("Invalid Bing Search API subscription key!\n");
