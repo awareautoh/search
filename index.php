@@ -42,7 +42,7 @@ function BingWebSearch ($url, $key, $query) {
 
     return array($headers, $result);
 }
-
+//check key
 if (strlen($accessKey) == 32) {
 
     print "Searching the Web for: " . $term . "\n";
