@@ -15,7 +15,7 @@ $accessKey = '';
 // encounter unexpected authorization errors, double-check this value against
 // the endpoint for your Bing Web search instance in your Azure dashboard.
 $endpoint = 'https://api.cognitive.microsoft.com/bing/v7.0/search';
-
+// add your search term here
 $term = 'laos';
 
 function BingWebSearch ($url, $key, $query) {
