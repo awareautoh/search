@@ -88,7 +88,7 @@ echo "image for ".$term.'<br/>';
    echo $value['thumbnailUrl'].'<br>';
    echo $value['thumbnailUrl'].'<br>';
    echo $value['contentUrl'].'<br>';
-
+   // result
    //remove this
    //echo "<a href='$value['displayUrl']'".$value['displayUrl'] . '</a><br>';
    //echo "<a href='$value['displayUrl']'>Link</a>";
