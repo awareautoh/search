@@ -7,7 +7,7 @@
 // *** Update or verify the following values. ***
 // **********************************************
 
-// Replace the accessKey string value with your valid access key.
+// Replace the accessKey string value with your valid access key
 $accessKey = '';
 
 // Verify the endpoint URI.  At this writing, only one endpoint is used for Bing
